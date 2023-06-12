@@ -33,4 +33,4 @@
 
 </div><br/>
 
-<h3>Actions speak louder than words, but results speak louder than actions<h3>
+<p>Actions speak louder than words, but results speak louder than actions<p>
